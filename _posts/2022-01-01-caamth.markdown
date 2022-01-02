@@ -9,6 +9,6 @@ In conjunction with the appointments web app, this Django application allows the
 
 The tokens are generated using the "secrets" python module then are hashed, salted and stored in the database.
 
-The administers can also view key performance indicators for the company's employees, such as the number of appointments, the number of appointments that have been attended, and the number of appointments that have been requested.
+The administrators can also view key performance indicators for the company's employees, such as the number of appointments, the number of appointments that have been attended, and the number of appointments that have been requested.
 
 The backend is written in Python using the Django framework. The frontend is written in jQuery and Bootstrap.
