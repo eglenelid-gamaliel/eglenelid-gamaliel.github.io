@@ -9,8 +9,11 @@ theme: minima
 # Minima settings
 show_excerpts: true
 
+header_pages:
+  - none.md
+
 github_username:  eglenelid-gamaliel
-linkedin_username: eglenelid-gamaliel-gutierrez-hernández
+linkedin_username: eglenelid-gamaliel
 twitter_username: theblueandroid
 
 plugins:
