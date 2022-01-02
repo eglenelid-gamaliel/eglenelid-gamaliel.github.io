@@ -8,6 +8,8 @@ theme: minima
 
 # Minima settings
 show_excerpts: true
+minima:
+  skin: dark
 
 header_pages:
   - none.md

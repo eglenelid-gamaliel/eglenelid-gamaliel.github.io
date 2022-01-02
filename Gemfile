@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Themes
-gem "minima", "~> 2.5"
+gem "minima", git: "https://github.com/jekyll/minima"
 
 # Github Pages
 gem "github-pages", "~> 219", group: :jekyll_plugins
