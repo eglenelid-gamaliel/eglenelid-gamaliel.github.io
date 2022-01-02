@@ -6,4 +6,4 @@ list_title: Projects
 
 # Hi there! I'm Gamaliel
 
-I'm a web developer, and I'm passionate about building products that are useful and easy to use. Python is my favorite language and Django has been my main framework for the last few years, I'm always looking for new ways to improve my skills and knowledge.
+I'm a web developer, passionate about building products that are useful and easy to use. Python is my favorite programming language and Django has been my main framework for the last two years, but I'm always looking for new technologies and practices to learn and improve my skills. I'm also a big fan of everything related to Linux and open source software.
