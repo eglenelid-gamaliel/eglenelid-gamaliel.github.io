@@ -7,8 +7,10 @@ url: ""
 theme: minima
 
 # Minima settings
+show_excerpts: true
+
 github_username:  eglenelid-gamaliel
-linkedin_username: eglenelid-gamaliel
+linkedin_username: eglenelid-gamaliel-gutierrez-hernández
 twitter_username: theblueandroid
 
 plugins:

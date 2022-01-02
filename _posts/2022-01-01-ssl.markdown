@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Management System"
+date:   2022-01-01
+categories: Projects Python Django
+---
+
+A Django project designed for car agencies that allows them to manage their orders, automate filling out forms and design reports. Allows the users to create, edit, and delete order items, prices and discounts. The administrators get key performance indicators such as total revenue, total orders, and average order value.
+
+The backend for this project was built using Python, Django, Reportlab and PostgreSQL.
+
+The frontend was built using JavaScript, LightGallery, Filepond and Bootstrap 4.
