@@ -10,6 +10,6 @@ I'm a web developer, passionate about building products that are useful and easy
 
 Here you can find some of my projects, you can find more about them clicking on the links below.
 
-My contact information and CV can be found the bottom of this page.
+My contact information and CV can be found at the bottom of this page.
 
 Thank you for visiting my portfolio!
