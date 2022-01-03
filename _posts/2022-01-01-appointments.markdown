@@ -18,3 +18,8 @@ The backend for this project was built using:
 - Celery to handle asynchronous tasks
 
 The frontend was built using JavaScript and Bootstrap 5.
+
+![](/assets/images/appointments/appointments1.jpg)
+![](/assets/images/appointments/appointments2.jpg)
+![](/assets/images/appointments/appointments3.jpg)
+![](/assets/images/appointments/appointments4.jpg)
