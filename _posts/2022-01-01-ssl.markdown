@@ -10,3 +10,13 @@ A Django project designed for car agencies that allows them to manage their orde
 The backend for this project was built using Python, Django, Reportlab and PostgreSQL.
 
 The frontend was built using JavaScript, LightGallery, Filepond and Bootstrap 4.
+
+![](/assets/images/ssl/item.jpeg)
+
+![](/assets/images/ssl/labor.jpeg)
+
+![](/assets/images/ssl/asesor1.jpeg)
+
+![](/assets/images/ssl/asesor2.jpeg)
+
+![](/assets/images/ssl/asesor3.jpeg)
