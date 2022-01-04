@@ -15,7 +15,7 @@ The frontend was built using JavaScript, LightGallery, Filepond and Bootstrap 4.
 
 ![](/assets/images/ssl/labor.jpeg)
 
-![](/assets/images/ssl/asesor1.jpeg)
+![](/assets/images/ssl/asesor1.jpg)
 
 ![](/assets/images/ssl/asesor2.jpeg)
 
